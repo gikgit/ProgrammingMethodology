@@ -1,1 +1,1 @@
-# Solutions For Programming Methodology
+# Programming Methodology
